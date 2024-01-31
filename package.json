@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "setup": " npm install express sequelize sqlite3 cors fs path"
+    "setup": "npm install express sequelize sqlite3 cors fs path",
+    "readme": "npx readme-md-generator"
   },
   "keywords": [],
   "author": "",
