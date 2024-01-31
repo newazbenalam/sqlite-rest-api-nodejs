@@ -32,7 +32,7 @@ npm run test
 
 * Website: https://github.com/newazbenalam/
 * Github: [@newazbenalam](https://github.com/newazbenalam)
-* LinkedIn: [@newazbenalam](https://linkedin.com/in/newazbenalam)
+* LinkedIn: [@newazbenalam](https://linkedin.com/in/newaz-ben-alam)
 
 ## Show your support
 
